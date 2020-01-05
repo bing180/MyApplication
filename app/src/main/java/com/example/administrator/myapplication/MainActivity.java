@@ -11,10 +11,15 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         1.
         2.
+
                 rrr
                         vsvsds
                         gvsvssd
                                 vsvsa
 
+
+                3.
+                        4.
+                                5. 3a.1
     }
 }
